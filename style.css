@@ -1,0 +1,91 @@
+[data-testid="stHeader"] {
+  display: none;
+}
+[data-testid="stAppViewContainer"] {
+  width: 100% !important;
+}
+
+[data-testid="stAppViewBlockContainer"] {
+  width: 100% !important;
+}
+
+[data-testid="stVerticalBlockBorderWrapper"] {
+  width: 100% !important;
+}
+.logged_in {
+  position: fixed;
+  top: 12%; /* You can adjust this if you want some space from the top */
+  right: 0;
+  color: #041c44;
+  font-size:30px;
+  font-weight: bold;
+  padding-right: 16.5%;
+}
+.title {
+  position: fixed;
+  top: 0;
+  left: 180px;
+  width: 100%;
+  color: #041c44; /* Change the text color to blue */
+  background-color: #dceaf6; /* You can adjust the background color as needed */
+  font-size:30px; /* You can adjust the font size as needed */
+  padding: 40px; /* You can adjust the padding as needed */
+  text-align: center;
+  font-weight: bold;
+  z-index: 1000; /* Ensure it's above other elements */
+  box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.5); /* Add a shadow border */
+}
+
+[data-testid="baseButton-primary"] {
+  background-color:#89BEEA;
+}
+.p1 {
+  font-size: 100px; /* Taille de police */
+  color: #333; /* Couleur du texte */
+  text-align: justify; /* Alignement du texte */
+  margin-bottom: 20px; /* Marge en bas */
+}
+
+[data-testid="stSidebar"] {
+  background-color: #89BEEA
+;
+}
+[data-testid="stSidebarContent"] {
+  background-color: #89BEEA
+;
+}
+[data-testid="stAppViewContainer"] {
+  background-color: #Dceaf6
+;
+}
+
+.st-emotion-cache-1kf4ru5.ef3psqc12 {
+  background-color: #2B6EA5;
+  position: relative;
+  margin-top: 78px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 30px;
+  width: 100px;
+  height: 30px;
+}
+.menu{
+  background-color: #89BEEA
+}
+.im1 {
+  background-color:#89BEEA;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+[data-testid="stMainMenu"] {
+  background-color: #89BEEA
+;
+}
+
+[class="st-emotion-cache-8atqhb ea3mdgi4"] {
+  background-color: #89BEEA
+;
+}
+
